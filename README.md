@@ -112,8 +112,3 @@ Address_book/
 ## 📌 Conclusion
 
 This project demonstrates how file handling and structured programming concepts can be used to build a simple yet effective contact management system. It provides a strong foundation for developing more advanced database-driven applications.
-
-
-## 🔗 GitHub Repository
-
-https://github.com/DurgadeviVinukonda/Address_book
