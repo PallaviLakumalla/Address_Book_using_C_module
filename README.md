@@ -6,7 +6,7 @@ This project is a menu-driven Address Book application developed in the C progra
 
 The application allows users to perform essential operations such as adding, viewing, searching, updating, and deleting contact details. It uses file handling techniques to ensure that all data is stored persistently in a CSV file, enabling data retention even after program execution.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a974898e-8de3-4c27-918f-3522a9e9bf5d" />
+
 
 
 
