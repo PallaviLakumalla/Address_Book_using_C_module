@@ -8,6 +8,7 @@ The application allows users to perform essential operations such as adding, vie
 
 
 
+![design](https://github.com/user-attachments/assets/e93f3ac1-1756-45a8-9247-2343dc0156a0)
 
 
 ## 🎯 Objective
